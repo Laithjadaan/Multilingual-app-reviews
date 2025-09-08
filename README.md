@@ -1,61 +1,44 @@
-# [Your Name] - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+
+<h1>Laith — Freelance Data Analyst</h1>
+<p>Welcome to my portfolio. I specialize in turning raw data into actionable insights using Python, Pandas, and modern visualization tools. This site showcases my latest project analyzing multilingual mobile app reviews.</p>
 
 ## About This Portfolio Template
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+<h2>About This Portfolio</h2>
+<p>This portfolio demonstrates my ability to:
+<ul>
+  <li>Clean and analyze real-world multilingual datasets</li>
+  <li>Visualize data using Matplotlib and present insights clearly</li>
+  <li>Build client-ready dashboards and reports</li>
+  <li>Transform complex data into strategic decisions</li>
+</ul>
+</p>
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
-
+<h2><i class="fas fa-folder"></i> Projects</h2>
+<div class="project">
+  <h3>Multilingual App Reviews Analysis</h3>
+  <p>This project explores user ratings across languages, countries, app categories, gender, and age. It includes data cleaning, exploratory analysis, and visual storytelling using Python and Pandas.</p>
+  <a href="https://github.com/LatthaphanLindqvist/Multilingual-app-reviews" target="_blank">View on GitHub</a>
+</div>
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+<h2>Skills</h2>
+<ul>
+  <li><strong>Data Analysis:</strong> Python (Pandas, NumPy), SQL, Excel</li>
+  <li><strong>Visualization:</strong> Matplotlib, Seaborn, Power BI</li>
+  <li><strong>Modeling:</strong> Data cleaning, feature engineering, trend analysis</li>
+  <li><strong>Tools:</strong> GitHub, Jupyter Notebook, VS Code</li>
+</ul>
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
-
-## 💡 How to Use This Template
-
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
-
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
-
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+<h2>Contact Me</h2>
+<p>If you're looking for a data analyst to help you uncover insights and build smart solutions, feel free to reach out.</p>
+<form action="https://formsubmit.co/your.email@example.com" method="POST">
+  <input type="text" name="name" placeholder="Your Name" required>
+  <input type="email" name="email" placeholder="Your Email" required>
+  <textarea name="message" placeholder="Your Message" required></textarea>
+  <button type="submit">Send</button>
+</form>
