@@ -41,3 +41,7 @@
   <textarea name="message" placeholder="Your Message" required></textarea>
   <button type="submit">Send</button>
 </form>
+## 📦 Dataset Source  
+This project is based on the [Multilingual Mobile App Reviews Dataset (2025)](https://www.kaggle.com/datasets/pratyushpuri/multilingual-mobile-app-reviews-dataset-2025) published on Kaggle by Pratyush Puri.  
+The dataset contains over 2,500 reviews across 40+ mobile apps in 24 languages, making it ideal for multilingual sentiment analysis and user behavior exploration.  
+I adapted and expanded the analysis using Python and custom visualizations to extract actionable insights.
