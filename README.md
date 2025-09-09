@@ -3,7 +3,6 @@
 <h1>Laith — Freelance Data Analyst</h1>
 <p>Welcome to my portfolio. I specialize in turning raw data into actionable insights using Python, Pandas, and modern visualization tools. This site showcases my latest project analyzing multilingual mobile app reviews.</p>
 
-## About This Portfolio Template
 
 <h2>About This Portfolio</h2>
 <p>This portfolio demonstrates my ability to:
