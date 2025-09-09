@@ -20,7 +20,7 @@
 <div class="project">
   <h3>Multilingual App Reviews Analysis</h3>
   <p>This project explores user ratings across languages, countries, app categories, gender, and age. It includes data cleaning, exploratory analysis, and visual storytelling using Python and Pandas.</p>
-  <a href="https://github.com/LatthaphanLindqvist/Multilingual-app-reviews" target="_blank">View on GitHub</a>
+  <a href="https://github.com/Laithjadaan/Multilingual-app-reviews.git" target="_blank">View on GitHub</a>
 </div>
 
 ## 🛠️ Skills
