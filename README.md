@@ -1,47 +1,52 @@
+# 📊 Laith Jadaan — Freelance Data Analyst
 
+Welcome to My Portfolio  
+I specialize in turning raw data into actionable insights using **Python**, **Pandas**, and modern visualization tools. This repository showcases my latest project: a comprehensive analysis of **multilingual mobile app reviews**.
 
-<h1>Laith — Freelance Data Analyst</h1>
-<p>Welcome to my portfolio. I specialize in turning raw data into actionable insights using Python, Pandas, and modern visualization tools. This site showcases my latest project analyzing multilingual mobile app reviews.</p>
+---
 
+## 🚀 Multilingual App Reviews Analysis
 
-<h2>About This Portfolio</h2>
-<p>This portfolio demonstrates my ability to:
-<ul>
-  <li>Clean and analyze real-world multilingual datasets</li>
-  <li>Visualize data using Matplotlib and present insights clearly</li>
-  <li>Build client-ready dashboards and reports</li>
-  <li>Transform complex data into strategic decisions</li>
-</ul>
-</p>
+This project explores user ratings and feedback from a diverse, multilingual dataset. The goal was to go beyond simple metrics and uncover the **"why"** behind user behavior across different languages, countries, app categories, gender, and age groups.
 
-## 🚀 Projects
+### 🔍 Key Aspects of This Project
 
-<h2><i class="fas fa-folder"></i> Projects</h2>
-<div class="project">
-  <h3>Multilingual App Reviews Analysis</h3>
-  <p>This project explores user ratings across languages, countries, app categories, gender, and age. It includes data cleaning, exploratory analysis, and visual storytelling using Python and Pandas.</p>
-  <a href="https://github.com/Laithjadaan/Multilingual-app-reviews.git" target="_blank">View on GitHub</a>
-</div>
+- **Data Cleaning & Preprocessing**  
+  Handling a real-world, messy dataset with missing values, inconsistent formats, and multiple languages.
 
-## 🛠️ Skills
+- **Exploratory Data Analysis (EDA)**  
+  Discovering trends and patterns to inform business decisions.
 
-<h2>Skills</h2>
-<ul>
-  <li><strong>Data Analysis:</strong> Python (Pandas, NumPy), SQL, Excel</li>
-  <li><strong>Visualization:</strong> Matplotlib, Seaborn, Power BI</li>
-  <li><strong>Modeling:</strong> Data cleaning, feature engineering, trend analysis</li>
-  <li><strong>Tools:</strong> GitHub, Jupyter Notebook, VS Code</li>
-</ul>
+- **Visual Storytelling**  
+  Using Matplotlib and Seaborn to create compelling visualizations that communicate complex findings.
 
-<h2>Contact Me</h2>
-<p>If you're looking for a data analyst to help you uncover insights and build smart solutions, feel free to reach out.</p>
-<form action="https://formsubmit.co/your.email@example.com" method="POST">
-  <input type="text" name="name" placeholder="Your Name" required>
-  <input type="email" name="email" placeholder="Your Email" required>
-  <textarea name="message" placeholder="Your Message" required></textarea>
-  <button type="submit">Send</button>
-</form>
-## 📦 Dataset Source  
-This project is based on the [Multilingual Mobile App Reviews Dataset (2025)](https://www.kaggle.com/datasets/pratyushpuri/multilingual-mobile-app-reviews-dataset-2025) published on Kaggle by Pratyush Puri.  
-The dataset contains over 2,500 reviews across 40+ mobile apps in 24 languages, making it ideal for multilingual sentiment analysis and user behavior exploration.  
-I adapted and expanded the analysis using Python and custom visualizations to extract actionable insights.
+- **Actionable Insights**  
+  Translating data-driven discoveries into strategic recommendations for product development and marketing.
+
+---
+
+## 📦 Dataset Source
+
+This project is based on the **Multilingual Mobile App Reviews Dataset (2025)** published on Kaggle by *Pratyush Puri*.  
+It contains 2,514 reviews across 40+ mobile apps in 24 languages, making it ideal for multilingual NLP, sentiment analysis, and cross-cultural user behavior research.  
+You can explore the dataset on [Kaggle's official page](https://www.kaggle.com/datasets/pratyushpuri/multilingual-mobile-app-reviews-dataset-2025).
+
+---
+
+## 🛠️ Skills Demonstrated
+
+This project is a strong testament to my ability to manage the full data analysis lifecycle. I am proficient in:
+
+- **Data Analysis**: Python (Pandas, NumPy), SQL, Excel  
+- **Data Visualization**: Matplotlib, Seaborn, Power BI  
+- **Analytical Techniques**: Data cleaning, feature engineering, trend analysis  
+- **Tools**: GitHub, Jupyter Notebook, VS Code
+
+---
+
+## 🤝 Contact Me
+
+If you're looking for a data analyst to help you uncover insights and build smart solutions, feel free to reach out. I'm always open to new freelance opportunities.
+
+📧 Email: [laith.jadaann@gmail.com](mailto:laith.jadaann@gmail.com)  
+🔗 LinkedIn: [Laith Jadaan](https://www.linkedin.com/in/laith-jadaan-4b73372a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
